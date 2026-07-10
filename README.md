@@ -1,16 +1,31 @@
-## Hi there 👋
-
-<!--
-**bhumika-2/bhumika-2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hi, I'm Bhumika Panwar 👋
+🎓 Final Year B.Tech Computer Science Student
+💻 Interested in
+- Software Development
+- Cyber Security
+- Artificial Intelligence
+- Web Development
+## Skills
+Languages
+- C++
+- Python
+- Java
+- JavaScript
+Technologies
+- React
+- Node.js
+- Express
+- MongoDB
+Tools
+- Git
+- GitHub
+- VS Code
+- Linux
+## Currently Working On
+- Smart Trekking & Safety Assistant
+- Cyber Security Projects
+- AI/ML Learning
+## Connect with Me
+LinkedIn: https://www.linkedin.com/in/bhumika-panwar-9837292a7 
+GitHub: https://github.com/bhumika-2
+Email: bhumikapanwarhere@gmail.com
